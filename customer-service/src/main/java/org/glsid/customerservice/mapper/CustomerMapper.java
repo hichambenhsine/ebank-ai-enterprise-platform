@@ -2,7 +2,7 @@ package org.glsid.customerservice.mapper;
 
 import org.glsid.customerservice.dto.CustomerRequestDTO;
 import org.glsid.customerservice.dto.CustomerResponseDTO;
-import org.glsid.customerservice.enums.Customer;
+import org.glsid.customerservice.entities.Customer;
 import org.glsid.customerservice.enums.CustomerStatus;
 import org.springframework.stereotype.Component;
 

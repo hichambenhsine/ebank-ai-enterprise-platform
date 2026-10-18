@@ -1,7 +1,9 @@
-package org.glsid.customerservice.enums;
+package org.glsid.customerservice.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
+import org.glsid.customerservice.enums.CustomerStatus;
+import org.glsid.customerservice.enums.CustomerType;
 
 import java.time.LocalDateTime;
 

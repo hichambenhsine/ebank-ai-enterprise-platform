@@ -1,6 +1,6 @@
 package org.glsid.customerservice.repository;
 
-import org.glsid.customerservice.enums.Customer;
+import org.glsid.customerservice.entities.Customer;
 import org.glsid.customerservice.enums.CustomerStatus;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

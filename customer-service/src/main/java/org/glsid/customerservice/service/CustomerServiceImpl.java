@@ -3,7 +3,7 @@ package org.glsid.customerservice.service;
 import lombok.RequiredArgsConstructor;
 import org.glsid.customerservice.dto.CustomerRequestDTO;
 import org.glsid.customerservice.dto.CustomerResponseDTO;
-import org.glsid.customerservice.enums.Customer;
+import org.glsid.customerservice.entities.Customer;
 import org.glsid.customerservice.exceptions.CustomerNotFoundException;
 import org.glsid.customerservice.exceptions.EmailAlreadyExistsException;
 import org.glsid.customerservice.mapper.CustomerMapper;
